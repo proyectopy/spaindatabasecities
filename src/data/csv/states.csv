@@ -1,0 +1,53 @@
+id,name,country_id
+1,Alava,205
+2,Albacete,205
+3,Alacant,205
+4,Almeria,205
+5,Avila,205
+6,Badajoz,205
+7,Balears,205
+8,Barcelona,205
+9,Burgos,205
+10,Caceres,205
+11,Cadiz,205
+12,Castello,205
+13,Ciudad Real,205
+14,Cordoba,205
+15,A Coruna,205
+16,Cuenca,205
+17,Girona,205
+18,Granada,205
+19,Guadalajara,205
+20,Guipuzkoa,205
+21,Huelva,205
+22,Huesca,205
+23,Jaen,205
+24,Leon,205
+25,Lerida,205
+26,La Rioja,205
+27,Lugo,205
+28,Madrid,205
+29,Malaga,205
+30,Murcia,205
+31,Navarra,205
+32,Ourense,205
+33,Asturias,205
+34,Palencia,205
+35,Las Palmas,205
+36,Pontevedra,205
+37,Salamanca,205
+38,Santa Cruz de Tenerife,205
+39,Cantabria,205
+40,Segovia,205
+41,Sevilla,205
+42,Soria,205
+43,Tarragona,205
+44,Teruel,205
+45,Toledo,205
+46,Valencia,205
+47,Valladolid,205
+48,BizKaia,205
+49,Zamora,205
+50,Zaragoza,205
+51,Ceuta,205
+52,Melilla,205

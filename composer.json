@@ -1,0 +1,44 @@
+{
+    "name": "proyectopy/spaindatabasecities",
+    "description": "Pakage for seed cities and provinces of Spain in Laravel database",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "laravel",
+        "php",
+        "csv",
+        "spain",
+        "Provinces",
+        "cities"
+    ],
+    "authors": [
+        {
+            "name": "Wild South",
+            "email": "wildsout@gmail.com"
+        }
+    ],
+    "require": {
+        "parsecsv/php-parsecsv": "^1.3"  
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Proyectopy\\Spaindatabasecities\\": "src/"
+        },
+        "files": [
+            "src/ProcesarDatos.php"
+        ]
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Proyectopy\\Spaindatabasecities\\SpainCountryServiceProvider"
+            ],
+            "aliases": {}
+        }
+    },
+    "homepage": "https://proyectopy.es/",
+    "prefer-stable": true
+}
