@@ -2,6 +2,8 @@
     "name": "proyectopy/spaindatabasecities",
     "description": "Pakage for seed cities and provinces of Spain in Laravel database",
     "type": "library",
+    "version": "1.0.0",
+
     "license": "MIT",
     "keywords": [
         "laravel",
