@@ -62,6 +62,8 @@ Una vez finalizado puedes usar a tu gusto los datos almacenados en la base de da
 
 Las 52 provincias españolas y aunque no estan todas de momento, una amplia cantidad de ciudades que iré completando a medida que vaya disponiendo de tiempo.
 
+Hemos actualizado la Version de dev/main a V1.0.0
+
 # :sweat_drops: PROXIMAMENTE :sweat_drops:
 
 ~~Poco a poco iré añadiendo ciudades para completar las que faltan.~~ 
@@ -69,3 +71,4 @@ Las 52 provincias españolas y aunque no estan todas de momento, una amplia cant
 Ya completé el listado con 8116 poblaciones de las 8132 que el INE contabiliza.
 
 Tengo previsto añadir las resources para los que usen Filamentphp.
+
